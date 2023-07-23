@@ -7,7 +7,7 @@
 An Application made with Flutter that allows user to add todos for each day in the week, the main purpose of this app is to implement dark and light theme based on device settings.
 This app made for Brmjha internship.
 
-![](https://github.com/iiShahad/todo_app/blob/master/preview.gif)
+<img src="https://github.com/iiShahad/todo_app/blob/master/preview.gif" width="50%" height="50%"/>
 
 ## Installation
 
