@@ -34,6 +34,9 @@ flutter run
 - [intl](https://pub.dev/packages/intl)
 - [flutter_riverpod](https://pub.dev/packages/flutter_riverpod)
   
+## Download APK
+[click here](https://drive.google.com/file/d/1Z7PIvXr6eL6IrQRzo_X1f0PIKFkHShTk/view?usp=sharing)
+
 
 
 
